@@ -14,12 +14,13 @@ while True:
     if question.lower() == 'exit':
         print("Closing the program...")
         break
-    # completion = client.chat.completions.create(
-    #     model="gpt-3.5-turbo",
-    #     messages=[
-    #       {"role": "system", "content": "You are a helpful assistant."},
-    #       {"role": "user", "content": question}
-    #     ]
-    # )
-    # print(completion.choices[0].message)
-    print('Result!')
+    completion = client.chat.completions.create(
+        model="gpt-3.5-turbo",
+        messages=[
+          {"role": "system", "content": "You are a helpful assistant."},
+          {"role": "user", "content": question}
+        ]
+    )
+    print('\n\n ---------- Start Result! ---------- \n\n')
+    print(completion.choices[0].message.content)
+    print('\n\n ---------- End Result! ---------- \n\n')
