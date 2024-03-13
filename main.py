@@ -21,5 +21,5 @@ while True:
     #       {"role": "user", "content": question}
     #     ]
     # )
-     
+    # print(completion.choices[0].message)
     print('Result!')
