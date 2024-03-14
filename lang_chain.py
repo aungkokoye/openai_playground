@@ -1,13 +1,8 @@
-from langchain_openai import ChatOpenAI
-import os
-from dotenv import load_dotenv
+import openai_helper
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 
-load_dotenv()
-openai_api_key = os.getenv("OPENAI_API_KEY")
-
-llm = ChatOpenAI(openai_api_key=openai_api_key)
+llm = openai_helper.get_openai_llm()
 
 prompt = ChatPromptTemplate.from_messages([
     ("system", "You are world class AI assistant."),
@@ -19,7 +14,7 @@ output_parser = StrOutputParser()
 chain = prompt | llm | output_parser
 
 while True:
-    question = input("What is your question? ( Type 'exit' to close the LangChain: )\n")
+    question = input("What is your question? ( Type 'exit' to close the Langchain: )\n")
     if question.lower() == 'exit':
         print("Closing LangChain ...")
         break
