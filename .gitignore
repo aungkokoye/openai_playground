@@ -2,3 +2,4 @@ openai_env/
 path/
 __pycache__/
 .env
+source

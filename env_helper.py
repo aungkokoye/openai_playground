@@ -26,3 +26,7 @@ def get_sql_port():
 
 def get_db_name():
     return os.getenv("DB_NAME")
+
+
+def get_debug_mode():
+    return os.getenv("DEBUG_MODE", '0')

@@ -57,7 +57,7 @@ full_chain = (
 )
 
 while True:
-    question = input("What is DB query question? ( Type 'exit' to close the Langchain query: )\n")
+    question = input("What is DB your query question? ( Type 'exit' to close the Langchain query: )\n")
     if len(question) == 0:
         print("Empty Question!")
         continue
