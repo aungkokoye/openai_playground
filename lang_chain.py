@@ -2,7 +2,7 @@ import openai_helper
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 
-llm = openai_helper.get_openai_llm()
+llm = openai_helper.()
 
 prompt = ChatPromptTemplate.from_messages([
     ("system", "You are world class AI assistant."),

@@ -23,7 +23,7 @@ Instructions: Please ensure that the generated SQL query does not use JSON funct
 
 prompt = ChatPromptTemplate.from_template(template)
 db = mysql_helper.get_db()
-llm = openai_helper.get_openai_llm()
+llm = openai_helper.get_chat_openai_llm()
 
 sql_chain = (
     RunnablePassthrough.assign(schema=mysql_helper.get_schema)

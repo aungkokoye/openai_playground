@@ -33,7 +33,7 @@ def exec(question, show_query):
         """
 
         prompt = ChatPromptTemplate.from_template(template)
-        llm = openai_helper.get_openai_llm()
+        llm = openai_helper.get_chat_openai_llm()
 
         sql_chain = (
             RunnablePassthrough.assign(schema=mysql_helper.get_schema)

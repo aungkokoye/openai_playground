@@ -4,7 +4,7 @@ import openai_helper as openAi
 
 
 db = sqlHelper.get_db()
-llm = openAi.get_openai_llm()
+llm = openAi.get_chat_openai_llm()
 chain = create_sql_query_chain(llm, db)
 
 response = chain.invoke({"question": "How many admin users are there?"})

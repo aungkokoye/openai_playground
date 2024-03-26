@@ -1,27 +1,24 @@
 import streamlit as st
-import json_loader_helper as jlh
-import json_analyzer_helper as jzh
+import json_python_loader as jpl
 
-st.title("Smart Json Analysis Assitant")
-question = st.sidebar.text_area("What is your Question?", key="question_input")
+st.title("Smart AI Assitant for Talent Passport")
+question = st.sidebar.text_area("What is your question about talent?", key="question_input")
 show_json_data = st.sidebar.checkbox("Do you want to show Json data?", key="show_json_checkbox")
 deploy_button = st.sidebar.button("Run")
 
 if deploy_button:
     if len(question) > 0:
-        json_data = jlh.get_json_from_file("output.json")
-        print(json_data)
-        result, json, error = jzh.exec(json_data, question)
+        answer, json_data, error = jpl.exec(question)
      
         if len(error) < 1:
             st.header("Result:")
-            st.write(result)
+            st.write(answer)
             
             if show_json_data:
                 st.divider()
-                if len(json):
+                if len(json_data):
                     st.header("Json Data:")
-                    st.json(json)
+                    st.json(json_data)
                 else:
                     st.header("Json Data: empty!")
                 
@@ -29,3 +26,4 @@ if deploy_button:
             st.warning(error)
     else:
         st.warning("Please enter a valid question before running.")
+    

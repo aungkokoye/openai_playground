@@ -4,7 +4,7 @@ from langchain.tools.json.tool import JsonSpec
 from langchain_community.agent_toolkits import JsonToolkit
 from langchain.agents import create_json_agent
 
-llm = ai.get_openai_llm()
+llm = ai.get_chat_openai_llm()
 
 file = "output.json"
 with open(file, "r") as f1:

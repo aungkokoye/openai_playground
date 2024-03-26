@@ -13,6 +13,7 @@ def exec(json_data, question):
             Base on the json data below,
             {json_data}
             If json formate is not valid, modify the json data to correct json formate.
+            If you need to escape, please escape as require.
             Return valid json only.
         """
 
@@ -24,6 +25,7 @@ def exec(json_data, question):
         )
 
         data = formatter_chain.invoke({"json_data": json_data})
+        print(data)
 
         json_analyzer_template = """
             You are a json data analysis expert.
@@ -52,7 +54,7 @@ def exec(json_data, question):
         if debug == "1":
             error = str(e)
 
-        return '', data, error
+        return '', '', error
     
     
 if __name__ == "__main__":

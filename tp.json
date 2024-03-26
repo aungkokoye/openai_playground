@@ -1,0 +1,1117 @@
+{ "talent":{
+    "@context": "/api/v1/contexts/user",
+    "@id": "/api/v1/users/7365e847-a32e-4068-a0fe-101e81d6bc8a",
+    "@type": "user",
+    "id": 33326,
+    "uuid": "7365e847-a32e-4068-a0fe-101e81d6bc8a",
+    "first_name": "Tom",
+    "last_name": "Evans",
+    "gender_pronouns": null,
+    "mbriggs_result": null,
+    "terms_version": 1,
+    "job_title": "Procurement & Supply Chain Specialist",
+    "telephone": "+441978897111",
+    "email": "tom.evans@pro-outsourcing.co.uk",
+    "is_active": true,
+    "last_activity": "2024-03-19T15:52:30+00:00",
+    "registered_at": "2016-12-21T19:02:33+00:00",
+    "personal_statement": "<p>Crafting and aligning supply chain and procurement visions with client business strategies, including spearheading global category strategies. Executing business transformation initiatives and leading negotiations for key supply contracts. Designing new operational frameworks and implementing processes for optimal performance, alongside establishing governance structures for compliance with Procurement, Group, and regulatory standards.</p>\n<p>Employing advanced methodologies and technologies to overhaul procurement operations, enhancing efficiency and positively affecting the bottom line. Directing strategic change projects in procurement, including continuous improvement and automation, to foster innovation and ensure project delivery.</p>\n<p>Implementing global strategic sourcing to identify new suppliers and establishing effective Supplier Relationship Management (SRM) frameworks to foster innovation and collaboration. Actively managing contract obligations and evaluating contract performance, while questioning non-essential business demands.</p>\n<p>Juggling various functions for an integrated change approach and ensuring stakeholder engagement across all levels with strong influencing capabilities. Showcasing extensive knowledge in Procurement, Process Excellence, and Contracting.</p>\n<p>Collaborating closely with clients to understand their business needs, offering innovative solutions tailored to these requirements. Conducting complex commercial negotiations for significant contracts, promoting operational and process excellence.</p>\n<p>Evaluating operational change impacts, crafting change management strategies that contribute to continuous improvement and transformation. Knowledgeable in the entire supplier management lifecycle, from procurement to operational governance.</p>",
+    "open_to_perm_jobs": null,
+    "min_day_rate": 300,
+    "max_day_rate": 1000,
+    "avatar_metadata": {
+        "width": null,
+        "height": null,
+        "center_x": null,
+        "center_y": null,
+        "rotation": null,
+        "scale": null,
+        "source_url": "https://1922ad1ca24372498797-3b677d6bb99015de4b7df47cce09c3b8.ssl.cf3.rackcdn.com/avatar-src/7b/bb/89/1ac1369fd8301281fdd23231e2.jpg?v=2600ccc090304f8a6a730b91db541c73"
+    },
+    "profile_completeness": 100,
+    "applied_projects_count": 8,
+    "hired_projects_count": 0,
+    "has_availability": false,
+    "available_at": null,
+    "is_approved": true,
+    "approval_changed_at": "2018-03-21T16:56:55+00:00",
+    "day_rate_currency": {
+        "@id": "/api/v1/currencies/1",
+        "@type": "currency",
+        "id": 1,
+        "symbol": "£"
+    },
+    "approval_changed_by": null,
+    "deleted_by": null,
+    "country": {
+        "@id": "/api/v1/countries/235",
+        "@type": "country",
+        "id": 235,
+        "name": "United Kingdom",
+        "continent_name": "Europe"
+    },
+    "groups": [],
+    "applications": [
+        {
+            "@id": "/api/v1/applications/51463",
+            "@type": "application",
+            "id": 51463,
+            "status": 30,
+            "project": {
+                "@id": "/api/v1/projects/d106fd50-e23e-4323-9c92-bc54b4f1198d",
+                "@type": "project",
+                "id": 4546,
+                "uuid": "d106fd50-e23e-4323-9c92-bc54b4f1198d",
+                "name": "US Based Consultant with experience negotiating FedEx/UPS small parcel agreements",
+                "slug": "us-based-consultant-with-experience-negotiating-fedex-ups-small-parcel-agreements-1"
+            },
+            "status_name": "rejected by admin"
+        },
+        {
+            "@id": "/api/v1/applications/51572",
+            "@type": "application",
+            "id": 51572,
+            "status": 30,
+            "project": {
+                "@id": "/api/v1/projects/86232304-df8a-4b74-9e77-733b2865729a",
+                "@type": "project",
+                "id": 4555,
+                "uuid": "86232304-df8a-4b74-9e77-733b2865729a",
+                "name": "Procurement Cost Reduction Consultant (Raw Materials)",
+                "slug": "procurement-cost-reduction-consultant-raw-materials"
+            },
+            "status_name": "rejected by admin"
+        },
+        {
+            "@id": "/api/v1/applications/64387",
+            "@type": "application",
+            "id": 64387,
+            "status": 30,
+            "project": {
+                "@id": "/api/v1/projects/28387a97-3720-465d-a9d5-2ecfd659f9d8",
+                "@type": "project",
+                "id": 5771,
+                "uuid": "28387a97-3720-465d-a9d5-2ecfd659f9d8",
+                "name": "Strategic procurement review of indirect spend for industrial business- Germany or UK based",
+                "slug": "strategic-procurement-review-of-indirect-spend-for-industrial-business-germany-or-uk-based"
+            },
+            "status_name": "rejected by admin"
+        },
+        {
+            "@id": "/api/v1/applications/65451",
+            "@type": "application",
+            "id": 65451,
+            "status": 30,
+            "project": {
+                "@id": "/api/v1/projects/b6c0eefd-1b59-40c4-ae93-24fef13a6bb9",
+                "@type": "project",
+                "id": 5843,
+                "uuid": "b6c0eefd-1b59-40c4-ae93-24fef13a6bb9",
+                "name": "Electrical manufacturing procurement specialist",
+                "slug": "electrical-manufacturing-procurement-specialist"
+            },
+            "status_name": "rejected by admin"
+        },
+        {
+            "@id": "/api/v1/applications/72455",
+            "@type": "application",
+            "id": 72455,
+            "status": 30,
+            "project": {
+                "@id": "/api/v1/projects/08d06223-daaa-4d07-9291-176268d37df6",
+                "@type": "project",
+                "id": 6452,
+                "uuid": "08d06223-daaa-4d07-9291-176268d37df6",
+                "name": "Procurement transformation lead- Europe based",
+                "slug": "procurement-transformation-lead-europe-based"
+            },
+            "status_name": "rejected by admin"
+        },
+        {
+            "@id": "/api/v1/applications/80470",
+            "@type": "application",
+            "id": 80470,
+            "status": 40,
+            "project": {
+                "@id": "/api/v1/projects/2a5cd989-a8fb-476f-acff-f3bead2935cb",
+                "@type": "project",
+                "id": 7380,
+                "uuid": "2a5cd989-a8fb-476f-acff-f3bead2935cb",
+                "name": "Procurement/Strategic Sourcing Consultants required for 6 month contract based in various locations in Europe or US",
+                "slug": "procurement-strategic-sourcing-consultants-required-for-6-month-contract-based-in-various-locations-in-europe-or-us"
+            },
+            "status_name": "rejected"
+        },
+        {
+            "@id": "/api/v1/applications/85722",
+            "@type": "application",
+            "id": 85722,
+            "status": 40,
+            "project": {
+                "@id": "/api/v1/projects/83a76ebd-28c7-49aa-8294-468beb4a9430",
+                "@type": "project",
+                "id": 8044,
+                "uuid": "83a76ebd-28c7-49aa-8294-468beb4a9430",
+                "name": "Interim Procurement Director",
+                "slug": "interim-procurement-director"
+            },
+            "status_name": "rejected"
+        },
+        {
+            "@id": "/api/v1/applications/104089",
+            "@type": "application",
+            "id": 104089,
+            "status": 40,
+            "project": {
+                "@id": "/api/v1/projects/c60e71fb-cee4-467d-a6aa-a6957c5755ee",
+                "@type": "project",
+                "id": 10028,
+                "uuid": "c60e71fb-cee4-467d-a6aa-a6957c5755ee",
+                "name": "Award-winning cider startup looking for consultant to assist with supply chain capabilities",
+                "slug": "award-winning-cider-startup-looking-for-consultant-to-assist-with-supply-chain-capabilities"
+            },
+            "status_name": "rejected"
+        }
+    ],
+    "created_at": "2016-12-21T19:02:34+00:00",
+    "updated_at": "2024-03-19T16:00:02+00:00",
+    "deleted_at": null,
+    "anonymised_at": null,
+    "url": "https://1922ad1ca24372498797-3b677d6bb99015de4b7df47cce09c3b8.ssl.cf3.rackcdn.com/avatar/7b/bb/89/1ac1369fd8301281fdd23231e2.jpg?v=2600ccc090304f8a6a730b91db541c73",
+    "years_of_experience": 29,
+    "full_name": "Tom Evans",
+    "role_name": "consultant",
+    "talent_pool_memberships_count": 2,
+    "is_deleted": false,
+    "is_anonymised": false,
+    "deleted": false,
+    "anonymised": false
+},
+
+"work-history": {
+    "@context": "/api/v1/contexts/work-history",
+    "@id": "/api/v1/users/7365e847-a32e-4068-a0fe-101e81d6bc8a/work-histories",
+    "@type": "hydra:Collection",
+    "hydra:member": [
+        {
+            "@id": "/api/v1/work-histories/222908",
+            "@type": "work-history",
+            "id": 222908,
+            "title": "AGP – CONSULTANT",
+            "company": "WELSH GOVERNMENT - BUSINESS WALES\t",
+            "summary": "Approved consultant on the EU Funded accelerated growth program (AGP) for Welsh Government offering Welsh companies’ advice and assistance in procurement process and procedures.",
+            "date_from": "2014-03-01T00:00:00+00:00",
+            "date_to": null,
+            "is_current": true,
+            "user": "/api/v1/users/7365e847-a32e-4068-a0fe-101e81d6bc8a",
+            "tags": []
+        },
+        {
+            "@id": "/api/v1/work-histories/114202",
+            "@type": "work-history",
+            "id": 114202,
+            "title": "FOUNDER AND MANAGING DIRECTOR",
+            "company": "Pro Outsourcing Ltd",
+            "summary": "<p>Defining supply chain and procurement visions for a range of clients in line with their overall business strategy, including leading the strategy and vision for the global category. Delivering successful business transformation programmes and overseeing negotiations on all category supply contracts and other critical agreements. Designing and implementing new operating models and implementing procedures and processes to achieve high performance, while developing appropriate governance frameworks to maintain adherence to Procurement/Group/regulatory governance.</p>\n<p>Analysing and implementing procurement operating models using the latest methodologies and technologies to maximise efficiencies and make an impact on the bottom line of the business. Leading procurement areas of strategic change projects (e.g., continuous improvement, automation-led initiatives, etc.), to drive innovation for the client area and ensuring it is contracted and delivered.</p>\n<p>Applying strategic sourcing across the globe to secure new suppliers, setting up effective relationship management frameworks to connect buyers and sellers, while promoting supplier-driven innovation and working closely with suppliers/partners to access latest innovations. Challenging unnecessary business demands, managing contract obligations, and measuring contract delivery.</p>\n<p>Managing multiple functions simultaneously to ensure an integrated approach to change and full stakeholder engagement, including experience managing stakeholders at all levels and possessing strong influencing skills. Demonstrating wide knowledge of client areas Procurement, Process Excellence, and Contracting.</p>\n<p>Effective collaboration with clients in relation to their business and operational requirements, introducing innovative, tailored business solutions to meet their needs. Leading complex commercial negotiations of multi-million-dollar contracts with outsourcing or BPO partners, and driving and enabling operational and process excellence.</p>\n<p>Analysing the impact of operational changes, developing a change management approach which fits neatly into a process of continuous improvement and seamless transformation, and being familiar with the full life cycle of supplier management from procurement and into operational governance and leadership</p>\n<p> their organisation and come to a tailored solution;<br><br>•</p>",
+            "date_from": "2012-12-01T00:00:00+00:00",
+            "date_to": null,
+            "is_current": true,
+            "user": "/api/v1/users/7365e847-a32e-4068-a0fe-101e81d6bc8a",
+            "tags": []
+        },
+        {
+            "@id": "/api/v1/work-histories/272703",
+            "@type": "work-history",
+            "id": 272703,
+            "title": "Senior Managing Consultant",
+            "company": "United Utilities & Business Stream (Scottish Water)",
+            "summary": "<p>I was engaged in two significant projects within the Water industry. At United Utilities (UU), my focus is on high-value NEC4 Framework agreements and refining the Purchase-to-Pay (P2P) function processes and procedures to enhance efficiencies, where I have identified savings of £0.9M. Additionally, I am playing a pivotal role in managing £300m complex commercial services tenders for the AMP8 programme, which is valued at £7 billion, demonstrating expertise in large-scale procurement and supply chain management. My responsibilities here include ensuring compliance, optimizing procurement strategies, and overseeing the entire tender process. At Business Stream (Scottish Water), my efforts are directed towards managing a series of Invitations to Tender (ITT) for the business. This role necessitates a deep understanding of regulated procurement, ensuring that all engagements are conducted in line with industry best practices and legal requirements.</p>",
+            "date_from": "2022-12-01T00:00:00+00:00",
+            "date_to": "2024-02-01T00:00:00+00:00",
+            "is_current": false,
+            "user": "/api/v1/users/7365e847-a32e-4068-a0fe-101e81d6bc8a",
+            "tags": [
+                {
+                    "@id": "/api/v1/work-history-tags/71893",
+                    "@type": "work-history-tag",
+                    "created_at": "2024-03-19T14:33:32+00:00",
+                    "tag": {
+                        "@id": "/api/v1/tags/83",
+                        "@type": "tag",
+                        "id": 83,
+                        "name": "Contract Negotiation",
+                        "taxonomy": {
+                            "@id": "/api/v1/taxonomies/7",
+                            "@type": "tag",
+                            "id": 7,
+                            "name": "Sales"
+                        }
+                    }
+                },
+                {
+                    "@id": "/api/v1/work-history-tags/71894",
+                    "@type": "work-history-tag",
+                    "created_at": "2024-03-19T14:33:32+00:00",
+                    "tag": {
+                        "@id": "/api/v1/tags/46",
+                        "@type": "tag",
+                        "id": 46,
+                        "name": "Business Process Redesign",
+                        "taxonomy": {
+                            "@id": "/api/v1/taxonomies/17",
+                            "@type": "tag",
+                            "id": 17,
+                            "name": "Operations & Performance Improvement"
+                        }
+                    }
+                },
+                {
+                    "@id": "/api/v1/work-history-tags/71895",
+                    "@type": "work-history-tag",
+                    "created_at": "2024-03-19T14:33:32+00:00",
+                    "tag": {
+                        "@id": "/api/v1/tags/312",
+                        "@type": "tag",
+                        "id": 312,
+                        "name": "Payments Technology",
+                        "taxonomy": {
+                            "@id": "/api/v1/taxonomies/13",
+                            "@type": "tag",
+                            "id": 13,
+                            "name": "Digital, Technology & Data"
+                        }
+                    }
+                },
+                {
+                    "@id": "/api/v1/work-history-tags/71896",
+                    "@type": "work-history-tag",
+                    "created_at": "2024-03-19T14:33:32+00:00",
+                    "tag": {
+                        "@id": "/api/v1/tags/413",
+                        "@type": "tag",
+                        "id": 413,
+                        "name": "Sourcing",
+                        "taxonomy": {
+                            "@id": "/api/v1/taxonomies/20",
+                            "@type": "tag",
+                            "id": 20,
+                            "name": "Supply Chain"
+                        }
+                    }
+                },
+                {
+                    "@id": "/api/v1/work-history-tags/71897",
+                    "@type": "work-history-tag",
+                    "created_at": "2024-03-19T14:33:32+00:00",
+                    "tag": {
+                        "@id": "/api/v1/tags/307",
+                        "@type": "tag",
+                        "id": 307,
+                        "name": "Outsourcing",
+                        "taxonomy": {
+                            "@id": "/api/v1/taxonomies/6",
+                            "@type": "tag",
+                            "id": 6,
+                            "name": "Organization Strategy"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "@id": "/api/v1/work-histories/272705",
+            "@type": "work-history",
+            "id": 272705,
+            "title": "Supply chain excellence consultant",
+            "company": "MOVEERO GROUP ",
+            "summary": "<p>Global ERP system usage assessment at Moveero UK, DENMARK AND USA. Identify the effective use of global ERP/MRP, create a functional rough cut capacity plan for each site to increase global capacity, visibility and performance of installed ERP products, with the emphasis on the flow of goods supply virtually and physically. Identified €6m inventory reduction</p>",
+            "date_from": "2022-06-01T00:00:00+00:00",
+            "date_to": "2022-11-01T00:00:00+00:00",
+            "is_current": false,
+            "user": "/api/v1/users/7365e847-a32e-4068-a0fe-101e81d6bc8a",
+            "tags": [
+                {
+                    "@id": "/api/v1/work-history-tags/71911",
+                    "@type": "work-history-tag",
+                    "created_at": "2024-03-19T15:58:10+00:00",
+                    "tag": {
+                        "@id": "/api/v1/tags/179",
+                        "@type": "tag",
+                        "id": 179,
+                        "name": "Global Delivery",
+                        "taxonomy": {
+                            "@id": "/api/v1/taxonomies/17",
+                            "@type": "tag",
+                            "id": 17,
+                            "name": "Operations & Performance Improvement"
+                        }
+                    }
+                },
+                {
+                    "@id": "/api/v1/work-history-tags/71912",
+                    "@type": "work-history-tag",
+                    "created_at": "2024-03-19T15:58:10+00:00",
+                    "tag": {
+                        "@id": "/api/v1/tags/148",
+                        "@type": "tag",
+                        "id": 148,
+                        "name": "Enterprise Resource Planning (ERP)",
+                        "taxonomy": {
+                            "@id": "/api/v1/taxonomies/5",
+                            "@type": "tag",
+                            "id": 5,
+                            "name": "Software"
+                        }
+                    }
+                },
+                {
+                    "@id": "/api/v1/work-history-tags/71913",
+                    "@type": "work-history-tag",
+                    "created_at": "2024-03-19T15:58:10+00:00",
+                    "tag": {
+                        "@id": "/api/v1/tags/436",
+                        "@type": "tag",
+                        "id": 436,
+                        "name": "Supply Chain Management",
+                        "taxonomy": {
+                            "@id": "/api/v1/taxonomies/20",
+                            "@type": "tag",
+                            "id": 20,
+                            "name": "Supply Chain"
+                        }
+                    }
+                },
+                {
+                    "@id": "/api/v1/work-history-tags/71914",
+                    "@type": "work-history-tag",
+                    "created_at": "2024-03-19T15:58:10+00:00",
+                    "tag": {
+                        "@id": "/api/v1/tags/435",
+                        "@type": "tag",
+                        "id": 435,
+                        "name": "Supply Chain Strategy",
+                        "taxonomy": {
+                            "@id": "/api/v1/taxonomies/20",
+                            "@type": "tag",
+                            "id": 20,
+                            "name": "Supply Chain"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "@id": "/api/v1/work-histories/272706",
+            "@type": "work-history",
+            "id": 272706,
+            "title": "Director of Procurement & Supply chain",
+            "company": "Oxford Immunotec Ltd ",
+            "summary": "<p>Oxford Immunotec is a pharma 18 years’ experience manufacturer of IVD tests. Identify gaps and gain control of £40m spend, create new process/procedures to new business areas, Create and lead strategic initiatives through a full change process.  Identified £4M savings</p>",
+            "date_from": "2021-12-01T00:00:00+00:00",
+            "date_to": "2022-05-01T00:00:00+00:00",
+            "is_current": false,
+            "user": "/api/v1/users/7365e847-a32e-4068-a0fe-101e81d6bc8a",
+            "tags": [
+                {
+                    "@id": "/api/v1/work-history-tags/71915",
+                    "@type": "work-history-tag",
+                    "created_at": "2024-03-19T16:00:02+00:00",
+                    "tag": {
+                        "@id": "/api/v1/tags/342",
+                        "@type": "tag",
+                        "id": 342,
+                        "name": "Procurement Strategy",
+                        "taxonomy": {
+                            "@id": "/api/v1/taxonomies/20",
+                            "@type": "tag",
+                            "id": 20,
+                            "name": "Supply Chain"
+                        }
+                    }
+                },
+                {
+                    "@id": "/api/v1/work-history-tags/71916",
+                    "@type": "work-history-tag",
+                    "created_at": "2024-03-19T16:00:02+00:00",
+                    "tag": {
+                        "@id": "/api/v1/tags/46",
+                        "@type": "tag",
+                        "id": 46,
+                        "name": "Business Process Redesign",
+                        "taxonomy": {
+                            "@id": "/api/v1/taxonomies/17",
+                            "@type": "tag",
+                            "id": 17,
+                            "name": "Operations & Performance Improvement"
+                        }
+                    }
+                },
+                {
+                    "@id": "/api/v1/work-history-tags/71917",
+                    "@type": "work-history-tag",
+                    "created_at": "2024-03-19T16:00:02+00:00",
+                    "tag": {
+                        "@id": "/api/v1/tags/57",
+                        "@type": "tag",
+                        "id": 57,
+                        "name": "Change Management",
+                        "taxonomy": {
+                            "@id": "/api/v1/taxonomies/10",
+                            "@type": "tag",
+                            "id": 10,
+                            "name": "Project Management"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "@id": "/api/v1/work-histories/222907",
+            "@type": "work-history",
+            "id": 222907,
+            "title": "INTERIM HEAD OF PROCUREMENT",
+            "company": "NEXTGEN360 LTD",
+            "summary": "<p>Nextgen360 is owned by the global pharma company, STADA GMBH with a t/o €3billion, Procurement was highlighted as an area of concern within group and required a new department building from scratch to include a full set of department processes and procedures, supplier risk analyses, agreements and full sourcing exercise. Department structure and resource of key management roles. Evaluate business SAP B1 software within the Procurement &amp; supply chain function and manage transition to best practice.<br><br></p>",
+            "date_from": "2021-01-01T00:00:00+00:00",
+            "date_to": "2021-12-01T00:00:00+00:00",
+            "is_current": false,
+            "user": "/api/v1/users/7365e847-a32e-4068-a0fe-101e81d6bc8a",
+            "tags": [
+                {
+                    "@id": "/api/v1/work-history-tags/71907",
+                    "@type": "work-history-tag",
+                    "created_at": "2024-03-19T15:54:30+00:00",
+                    "tag": {
+                        "@id": "/api/v1/tags/390",
+                        "@type": "tag",
+                        "id": 390,
+                        "name": "SAP",
+                        "taxonomy": {
+                            "@id": "/api/v1/taxonomies/5",
+                            "@type": "tag",
+                            "id": 5,
+                            "name": "Software"
+                        }
+                    }
+                },
+                {
+                    "@id": "/api/v1/work-history-tags/71908",
+                    "@type": "work-history-tag",
+                    "created_at": "2024-03-19T15:54:30+00:00",
+                    "tag": {
+                        "@id": "/api/v1/tags/148",
+                        "@type": "tag",
+                        "id": 148,
+                        "name": "Enterprise Resource Planning (ERP)",
+                        "taxonomy": {
+                            "@id": "/api/v1/taxonomies/5",
+                            "@type": "tag",
+                            "id": 5,
+                            "name": "Software"
+                        }
+                    }
+                },
+                {
+                    "@id": "/api/v1/work-history-tags/71909",
+                    "@type": "work-history-tag",
+                    "created_at": "2024-03-19T15:54:30+00:00",
+                    "tag": {
+                        "@id": "/api/v1/tags/342",
+                        "@type": "tag",
+                        "id": 342,
+                        "name": "Procurement Strategy",
+                        "taxonomy": {
+                            "@id": "/api/v1/taxonomies/20",
+                            "@type": "tag",
+                            "id": 20,
+                            "name": "Supply Chain"
+                        }
+                    }
+                },
+                {
+                    "@id": "/api/v1/work-history-tags/71910",
+                    "@type": "work-history-tag",
+                    "created_at": "2024-03-19T15:54:30+00:00",
+                    "tag": {
+                        "@id": "/api/v1/tags/83",
+                        "@type": "tag",
+                        "id": 83,
+                        "name": "Contract Negotiation",
+                        "taxonomy": {
+                            "@id": "/api/v1/taxonomies/7",
+                            "@type": "tag",
+                            "id": 7,
+                            "name": "Sales"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "@id": "/api/v1/work-histories/222906",
+            "@type": "work-history",
+            "id": 222906,
+            "title": "PROCUREMENT TRANSFORMATION & STRATEGY CONSULTANT",
+            "company": " IMS EURO LIMITED",
+            "summary": "With double figure growth within Veterinary and NHS contracts stressed the need for a full strategic review of the procurement function identifying and delivering transformational projects including department processes, structure, supplier risk analyses, sourcing, supplier consolidation across categories, negotiation and key supplier relationship building.  White label sourcing across the main line disposable medical products offering over £1.5m in savings.<br>\n<br>\n“…It is vital that our medical and veterinary supplies are efficient within the global supply chain, Pro Outsourcing have supported IMS Euro to strategically develop our procurement & supply chain function to cope with our significant growth, increasing cost challenges and the need for faster speed to market.  Collaborating with Pro Outsourcing elevated the Procurement function, making the sourcing process more structured and analytical, leveraging above all the collaboration with suppliers to achieve the ambitious cost reduction objectives, which we are already seeing fantastic results…”   Omar Shamot – Procurement Director.<br>\n<br>\n",
+            "date_from": "2018-10-01T00:00:00+00:00",
+            "date_to": "2021-03-01T00:00:00+00:00",
+            "is_current": false,
+            "user": "/api/v1/users/7365e847-a32e-4068-a0fe-101e81d6bc8a",
+            "tags": []
+        },
+        {
+            "@id": "/api/v1/work-histories/222909",
+            "@type": "work-history",
+            "id": 222909,
+            "title": "Chartered institute of purchasing & supply TUTOR",
+            "company": "BANGOR UNIVERSITY - MANAGEMENT CENTRE",
+            "summary": "Responsible for ensuring high standards of teaching excellence and learner experience.  Advise on the input into the development of all training programs ensuring the product is relevant to the needs of the profession, the CIPS Global Standard and to the high standards required by the University & CIPS to deliver MCIPS qualifications.",
+            "date_from": "2019-11-01T00:00:00+00:00",
+            "date_to": "2020-12-01T00:00:00+00:00",
+            "is_current": false,
+            "user": "/api/v1/users/7365e847-a32e-4068-a0fe-101e81d6bc8a",
+            "tags": []
+        },
+        {
+            "@id": "/api/v1/work-histories/272702",
+            "@type": "work-history",
+            "id": 272702,
+            "title": " Procurement Project Manager ",
+            "company": "Schlemmer Group GMBH",
+            "summary": "<p>As a Procurement Project Manager at Pro Outsourcing, I led several strategic initiatives for the Schlemmer Group, a leading global supplier in the Automotive, Industry &amp; Appliances sectors. My role involved conducting comprehensive market research and executing global sourcing strategies for new product lines. Leveraging procurement sourcing excellence, I implemented best-in-class approaches, adhering to stringent sustainability and corporate social responsibility standards. My efforts culminated in the identification of optimal global regions for procurement, the preparation of detailed request for quotations, and the execution of thorough supplier audits. These initiatives not only met Schlemmer's stringent requirements but also achieved significant cost savings on existing products, highlighting our commitment to excellence and efficiency in global supply chain management.</p>",
+            "date_from": "2014-01-01T00:00:00+00:00",
+            "date_to": "2016-01-01T00:00:00+00:00",
+            "is_current": false,
+            "user": "/api/v1/users/7365e847-a32e-4068-a0fe-101e81d6bc8a",
+            "tags": [
+                {
+                    "@id": "/api/v1/work-history-tags/71888",
+                    "@type": "work-history-tag",
+                    "created_at": "2024-03-19T14:29:00+00:00",
+                    "tag": {
+                        "@id": "/api/v1/tags/413",
+                        "@type": "tag",
+                        "id": 413,
+                        "name": "Sourcing",
+                        "taxonomy": {
+                            "@id": "/api/v1/taxonomies/20",
+                            "@type": "tag",
+                            "id": 20,
+                            "name": "Supply Chain"
+                        }
+                    }
+                },
+                {
+                    "@id": "/api/v1/work-history-tags/71889",
+                    "@type": "work-history-tag",
+                    "created_at": "2024-03-19T14:29:00+00:00",
+                    "tag": {
+                        "@id": "/api/v1/tags/342",
+                        "@type": "tag",
+                        "id": 342,
+                        "name": "Procurement Strategy",
+                        "taxonomy": {
+                            "@id": "/api/v1/taxonomies/20",
+                            "@type": "tag",
+                            "id": 20,
+                            "name": "Supply Chain"
+                        }
+                    }
+                },
+                {
+                    "@id": "/api/v1/work-history-tags/71890",
+                    "@type": "work-history-tag",
+                    "created_at": "2024-03-19T14:29:00+00:00",
+                    "tag": {
+                        "@id": "/api/v1/tags/307",
+                        "@type": "tag",
+                        "id": 307,
+                        "name": "Outsourcing",
+                        "taxonomy": {
+                            "@id": "/api/v1/taxonomies/6",
+                            "@type": "tag",
+                            "id": 6,
+                            "name": "Organization Strategy"
+                        }
+                    }
+                },
+                {
+                    "@id": "/api/v1/work-history-tags/71891",
+                    "@type": "work-history-tag",
+                    "created_at": "2024-03-19T14:29:00+00:00",
+                    "tag": {
+                        "@id": "/api/v1/tags/294",
+                        "@type": "tag",
+                        "id": 294,
+                        "name": "Negotiation",
+                        "taxonomy": {
+                            "@id": "/api/v1/taxonomies/16",
+                            "@type": "tag",
+                            "id": 16,
+                            "name": "Human Resources & Organization"
+                        }
+                    }
+                },
+                {
+                    "@id": "/api/v1/work-history-tags/71892",
+                    "@type": "work-history-tag",
+                    "created_at": "2024-03-19T14:29:00+00:00",
+                    "tag": {
+                        "@id": "/api/v1/tags/214",
+                        "@type": "tag",
+                        "id": 214,
+                        "name": "International Business",
+                        "taxonomy": {
+                            "@id": "/api/v1/taxonomies/6",
+                            "@type": "tag",
+                            "id": 6,
+                            "name": "Organization Strategy"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "@id": "/api/v1/work-histories/107755",
+            "@type": "work-history",
+            "id": 107755,
+            "title": "UK PURCHASING MANAGER",
+            "company": "Prysmian cables & systems",
+            "summary": "\tManaged a £35m budget, ensuring completion of procurement strategy. <br>\n\tSourced Electrical components for 3 divisions in UK<br>\n\tNegotiated and created contractual agreements from global supply bases, site services, sub-contract machining/manufacturing, and recurring item purchases into three component manufacturing plants in the UK. <br>\n\tFocused on low cost country sourcing to establish a robust supplychain and reduce risk.  <br>\nKEY ACCOMPLISHMENTS<br>\n\tAchieved annual Design to cost (DTC) savings on raw materials in components.<br>\n\tIntroduced third party MRO, PPE & Engineering consumables supplier into manufacturing plant reducing labour and savings on products.<br>\n\tCreated automated Supplier performance KPIs (on-time delivery), presently used at all UK sites and in Milan to assist the global process.<br>\n\tResourced major supplier to India with improved delivery and cost.  <br>\n\tDeveloped automated Purchasing KPIs (spend variances).<br>\n\tEstablished supplier score cards to highlight delivery, financial, quality, and single source status for the supply base.<br>\n\tCreated improved processes for RFQ and Capital purchases.  <br>\n\tStabilized the purchasing function within Network components division.",
+            "date_from": "2007-08-01T00:00:00+00:00",
+            "date_to": "2012-12-01T00:00:00+00:00",
+            "is_current": false,
+            "user": "/api/v1/users/7365e847-a32e-4068-a0fe-101e81d6bc8a",
+            "tags": []
+        },
+        {
+            "@id": "/api/v1/work-histories/120435",
+            "@type": "work-history",
+            "id": 120435,
+            "title": "PROCUREMENT & SUPPLYCHAIN LEADER",
+            "company": "AIRBUS UK",
+            "summary": "\tLed management of procurement category contracts, monitoring and improving the end to end supply chain of major wing parts to the MRP schedule for major suppliers throughout Europe into Airbus UK, totaling £180m. <br>\n\tAs a SAP super user utilized MRP and e-Supply tools to drive demand into the supplychain. <br>\n\tCreated and updated KPI packs that monitor supply performance and process controls in line with agreed Service Level agreements.  <br>\nKEY ACCOMPLISHMENTS<br>\n\tAssisted with the creation and implementation of supplychain management processes and physical activities, ensuring maximum current and future profitability through the cost-effective fulfillment of business requirements. <br>\n\tDeveloped and deployed the appropriate Inventory Management systems/processes together with critiquing material flow, control, and storage processes.",
+            "date_from": "2004-05-01T00:00:00+00:00",
+            "date_to": "2007-08-01T00:00:00+00:00",
+            "is_current": false,
+            "user": "/api/v1/users/7365e847-a32e-4068-a0fe-101e81d6bc8a",
+            "tags": []
+        },
+        {
+            "@id": "/api/v1/work-histories/120436",
+            "@type": "work-history",
+            "id": 120436,
+            "title": "Lead Logistics Planner/Controller",
+            "company": "JCB. Transmission",
+            "summary": "Responsible for the planning of the production programs and insuring that all finished<br>\nschedule for both UK and overseas suppliers ensuring delivery to JIT practices. Supporting Sub Contractor suppliers with free issue material to material for their weekly build program. Operating Kanban-Systems from suppliers to support production. Authorize transport invoices. manufacturing techniques”. Coordinating perpetual inventory counts with sub contract suppliers. Support service requirements for worldwide market.",
+            "date_from": "2001-02-01T00:00:00+00:00",
+            "date_to": "2004-05-01T00:00:00+00:00",
+            "is_current": false,
+            "user": "/api/v1/users/7365e847-a32e-4068-a0fe-101e81d6bc8a",
+            "tags": []
+        },
+        {
+            "@id": "/api/v1/work-histories/120437",
+            "@type": "work-history",
+            "id": 120437,
+            "title": "Buyer",
+            "company": "Morgan Electro Ceramics",
+            "summary": "Responsible for all aspects of running a busy supplies department, placing purchase orders for production raw materials, engineered parts, services and consumable items in an extremely busy environment where delivery is key, together with contacting suppliers regarding the progress of orders.",
+            "date_from": "1995-08-01T00:00:00+00:00",
+            "date_to": "2001-01-01T00:00:00+00:00",
+            "is_current": false,
+            "user": "/api/v1/users/7365e847-a32e-4068-a0fe-101e81d6bc8a",
+            "tags": []
+        }
+    ],
+    "hydra:totalItems": 13,
+    "hydra:search": {
+        "@type": "hydra:IriTemplate",
+        "hydra:template": "/api/v1/users/7365e847-a32e-4068-a0fe-101e81d6bc8a/work-histories{?with[],fields[],groups[],order[date_from],order[date_to]}",
+        "hydra:variableRepresentation": "BasicRepresentation",
+        "hydra:mapping": [
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "with[]",
+                "property": null,
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "fields[]",
+                "property": null,
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "groups[]",
+                "property": null,
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "order[date_from]",
+                "property": "date_from",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "order[date_to]",
+                "property": "date_to",
+                "required": false
+            }
+        ]
+    }
+},
+
+
+"educational-history": {
+    "@context": "/api/v1/contexts/educational-history",
+    "@id": "/api/v1/users/7365e847-a32e-4068-a0fe-101e81d6bc8a/educational-histories",
+    "@type": "hydra:Collection",
+    "hydra:member": [
+        {
+            "@id": "/api/v1/educational-histories/52132",
+            "@type": "educational-history",
+            "id": 52132,
+            "name": "Chartered Institute of purchasing and supply (CIPS)",
+            "degree": "Graduate diploma",
+            "field": "purchasing and supply",
+            "date_from": "2004-01-01T00:00:00+00:00",
+            "date_to": "2008-01-01T00:00:00+00:00",
+            "is_current": false,
+            "user": "/api/v1/users/7365e847-a32e-4068-a0fe-101e81d6bc8a",
+            "tags": [
+                {
+                    "@id": "/api/v1/work-history-tags/71893",
+                    "@type": "work-history-tag",
+                    "created_at": "2024-03-19T14:33:32+00:00",
+                    "tag": {
+                        "@id": "/api/v1/tags/83",
+                        "@type": "tag",
+                        "id": 83,
+                        "name": "Bussiness Management",
+                        "taxonomy": {
+                            "@id": "/api/v1/taxonomies/7",
+                            "@type": "tag",
+                            "id": 7,
+                            "name": "Supply Change"
+                        }
+                    }
+                }
+            ]
+        }
+    ],
+    "hydra:totalItems": 1,
+    "hydra:search": {
+        "@type": "hydra:IriTemplate",
+        "hydra:template": "/api/v1/users/7365e847-a32e-4068-a0fe-101e81d6bc8a/educational-histories{?with[],fields[],groups[],order[date_from],order[date_to]}",
+        "hydra:variableRepresentation": "BasicRepresentation",
+        "hydra:mapping": [
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "with[]",
+                "property": null,
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "fields[]",
+                "property": null,
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "groups[]",
+                "property": null,
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "order[date_from]",
+                "property": "date_from",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "order[date_to]",
+                "property": "date_to",
+                "required": false
+            }
+        ]
+    }
+},
+
+
+
+"industry-experience": {
+    "@context": "/api/v1/contexts/industry-experience",
+    "@id": "/api/v1/users/7365e847-a32e-4068-a0fe-101e81d6bc8a/industry-experiences",
+    "@type": "hydra:Collection",
+    "hydra:member": [
+        {
+            "@id": "/api/v1/industry-experiences/126444",
+            "@type": "industry-experience",
+            "industry": {
+                "@id": "/api/v1/industries/2",
+                "@type": "industry",
+                "id": 2,
+                "name": "Aerospace & Defence"
+            },
+            "id": 126444,
+            "years": 8,
+            "user": "/api/v1/users/7365e847-a32e-4068-a0fe-101e81d6bc8a"
+        },
+        {
+            "@id": "/api/v1/industry-experiences/126445",
+            "@type": "industry-experience",
+            "industry": {
+                "@id": "/api/v1/industries/46",
+                "@type": "industry",
+                "id": 46,
+                "name": "Business Services"
+            },
+            "id": 126445,
+            "years": 22,
+            "user": "/api/v1/users/7365e847-a32e-4068-a0fe-101e81d6bc8a"
+        },
+        {
+            "@id": "/api/v1/industry-experiences/126449",
+            "@type": "industry-experience",
+            "industry": {
+                "@id": "/api/v1/industries/23",
+                "@type": "industry",
+                "id": 23,
+                "name": "Consulting"
+            },
+            "id": 126449,
+            "years": 11,
+            "user": "/api/v1/users/7365e847-a32e-4068-a0fe-101e81d6bc8a"
+        },
+        {
+            "@id": "/api/v1/industry-experiences/126446",
+            "@type": "industry-experience",
+            "industry": {
+                "@id": "/api/v1/industries/24",
+                "@type": "industry",
+                "id": 24,
+                "name": "Electrical / Electronic Manufacturing"
+            },
+            "id": 126446,
+            "years": 6,
+            "user": "/api/v1/users/7365e847-a32e-4068-a0fe-101e81d6bc8a"
+        },
+        {
+            "@id": "/api/v1/industry-experiences/126447",
+            "@type": "industry-experience",
+            "industry": {
+                "@id": "/api/v1/industries/67",
+                "@type": "industry",
+                "id": 67,
+                "name": "Import & Export"
+            },
+            "id": 126447,
+            "years": 22,
+            "user": "/api/v1/users/7365e847-a32e-4068-a0fe-101e81d6bc8a"
+        },
+        {
+            "@id": "/api/v1/industry-experiences/126448",
+            "@type": "industry-experience",
+            "industry": {
+                "@id": "/api/v1/industries/33",
+                "@type": "industry",
+                "id": 33,
+                "name": "Logistics"
+            },
+            "id": 126448,
+            "years": 22,
+            "user": "/api/v1/users/7365e847-a32e-4068-a0fe-101e81d6bc8a"
+        },
+        {
+            "@id": "/api/v1/industry-experiences/126452",
+            "@type": "industry-experience",
+            "industry": {
+                "@id": "/api/v1/industries/35",
+                "@type": "industry",
+                "id": 35,
+                "name": "Utilities"
+            },
+            "id": 126452,
+            "years": 6,
+            "user": "/api/v1/users/7365e847-a32e-4068-a0fe-101e81d6bc8a"
+        }
+    ],
+    "hydra:totalItems": 7,
+    "hydra:search": {
+        "@type": "hydra:IriTemplate",
+        "hydra:template": "/api/v1/users/7365e847-a32e-4068-a0fe-101e81d6bc8a/industry-experiences{?order[industry.name],order[years]}",
+        "hydra:variableRepresentation": "BasicRepresentation",
+        "hydra:mapping": [
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "order[industry.name]",
+                "property": "industry.name",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "order[years]",
+                "property": "years",
+                "required": false
+            }
+        ]
+    }
+},
+
+
+
+"job-function-experience": {
+    "@context": "/api/v1/contexts/job-function-experience",
+    "@id": "/api/v1/users/7365e847-a32e-4068-a0fe-101e81d6bc8a/job-function-experiences",
+    "@type": "hydra:Collection",
+    "hydra:member": [
+        {
+            "@id": "/api/v1/job-function-experiences/96676",
+            "@type": "job-function-experience",
+            "job_function": {
+                "@id": "/api/v1/job-functions/31",
+                "@type": "job-function",
+                "id": 31,
+                "name": "Business Process Optimisation"
+            },
+            "id": 96676,
+            "years": 20,
+            "user": "/api/v1/users/7365e847-a32e-4068-a0fe-101e81d6bc8a"
+        },
+        {
+            "@id": "/api/v1/job-function-experiences/311312",
+            "@type": "job-function-experience",
+            "job_function": {
+                "@id": "/api/v1/job-functions/82",
+                "@type": "job-function",
+                "id": 82,
+                "name": "Business Transformation"
+            },
+            "id": 311312,
+            "years": 10,
+            "user": "/api/v1/users/7365e847-a32e-4068-a0fe-101e81d6bc8a"
+        },
+        {
+            "@id": "/api/v1/job-function-experiences/96677",
+            "@type": "job-function-experience",
+            "job_function": {
+                "@id": "/api/v1/job-functions/17",
+                "@type": "job-function",
+                "id": 17,
+                "name": "Procurement"
+            },
+            "id": 96677,
+            "years": 20,
+            "user": "/api/v1/users/7365e847-a32e-4068-a0fe-101e81d6bc8a"
+        },
+        {
+            "@id": "/api/v1/job-function-experiences/96678",
+            "@type": "job-function-experience",
+            "job_function": {
+                "@id": "/api/v1/job-functions/18",
+                "@type": "job-function",
+                "id": 18,
+                "name": "Product Development"
+            },
+            "id": 96678,
+            "years": 20,
+            "user": "/api/v1/users/7365e847-a32e-4068-a0fe-101e81d6bc8a"
+        },
+        {
+            "@id": "/api/v1/job-function-experiences/96679",
+            "@type": "job-function-experience",
+            "job_function": {
+                "@id": "/api/v1/job-functions/23",
+                "@type": "job-function",
+                "id": 23,
+                "name": "Strategy"
+            },
+            "id": 96679,
+            "years": 15,
+            "user": "/api/v1/users/7365e847-a32e-4068-a0fe-101e81d6bc8a"
+        },
+        {
+            "@id": "/api/v1/job-function-experiences/311313",
+            "@type": "job-function-experience",
+            "job_function": {
+                "@id": "/api/v1/job-functions/64",
+                "@type": "job-function",
+                "id": 64,
+                "name": "Supply Chain"
+            },
+            "id": 311313,
+            "years": 20,
+            "user": "/api/v1/users/7365e847-a32e-4068-a0fe-101e81d6bc8a"
+        }
+    ],
+    "hydra:totalItems": 6,
+    "hydra:search": {
+        "@type": "hydra:IriTemplate",
+        "hydra:template": "/api/v1/users/7365e847-a32e-4068-a0fe-101e81d6bc8a/job-function-experiences{?order[job_function.name],order[years]}",
+        "hydra:variableRepresentation": "BasicRepresentation",
+        "hydra:mapping": [
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "order[job_function.name]",
+                "property": "job_function.name",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "order[years]",
+                "property": "years",
+                "required": false
+            }
+        ]
+    }
+},
+
+
+
+"language-experience": {
+    "@context": "/api/v1/contexts/language-experience",
+    "@id": "/api/v1/users/7365e847-a32e-4068-a0fe-101e81d6bc8a/language-experiences",
+    "@type": "hydra:Collection",
+    "hydra:member": [
+        {
+            "@id": "/api/v1/language-experiences/116135",
+            "@type": "language-experience",
+            "id": 116135,
+            "proficiency": 5,
+            "language": {
+                "@id": "/api/v1/languages/37",
+                "@type": "language",
+                "id": 37,
+                "name": "English"
+            },
+            "user": "/api/v1/users/7365e847-a32e-4068-a0fe-101e81d6bc8a"
+        }
+    ],
+    "hydra:totalItems": 1,
+    "hydra:search": {
+        "@type": "hydra:IriTemplate",
+        "hydra:template": "/api/v1/users/7365e847-a32e-4068-a0fe-101e81d6bc8a/language-experiences{?order[language.name],order[proficiency]}",
+        "hydra:variableRepresentation": "BasicRepresentation",
+        "hydra:mapping": [
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "order[language.name]",
+                "property": "language.name",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "order[proficiency]",
+                "property": "proficiency",
+                "required": false
+            }
+        ]
+    }
+}
+}
