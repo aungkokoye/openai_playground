@@ -3,3 +3,4 @@ path/
 __pycache__/
 .env
 source
+.DS_Store
