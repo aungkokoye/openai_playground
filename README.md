@@ -22,11 +22,26 @@ copy .env_example to .env
 
 ```
 
-Python 3 installation
+Set up a virtual environment
 
 ```
 brew install python
 
+python -m venv <your_project_name>_env
+
+source <your_project_name>_env/bin/activate
+
+which python3
+
+python3 --version
+
+should show as : /Users/<your_username>/<your_project_name>/<your_project_name>_env/bin/python3
+
+```
+
+Python Module installation
+
+```
 pip --version
 
 pip install python-dotenv
@@ -39,22 +54,7 @@ pip install langchain
 
 pip install langchain-community
 
-```
-
-Set up a virtual environment
-
-```
-python -m venv <your_project_name>_env
-
-source <your_project_name>_env/bin/activate
-
-<your_project_name>_env\Scripts\activate
-
-which python3
-
-python3 --version
-
-should show as : /Users/<your_username>/<your_project_name>/<your_project_name>_env/bin/python3
+pip install streamlit
 
 ```
 
@@ -72,6 +72,6 @@ run command
 ```
 python3 main.py
 
- streamlit run st_json_analyzer.py [ARGUMENTS]
+streamlit run st_json_analyzer.py [ARGUMENTS]
 
 ```

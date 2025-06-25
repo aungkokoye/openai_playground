@@ -49,9 +49,10 @@ def exec(json_data, question):
 
     except Exception as e:
         debug = env_helper.get_debug_mode()
+        print(debug)
         error = "Something is wrong please run again!"
 
-        if debug == "1":
+        if debug == "True":
             error = str(e)
 
         return '', '', error
